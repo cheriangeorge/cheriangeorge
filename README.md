@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on 
 -->
-- 🌱 I’m currently learning Flask,vue.js
+- 🌱 I’m currently learning Flask,vue.js, Java
 - 👯 I’m looking to collaborate on interesting social projects
 - 🤔 I’m looking for help with Binary QR codes 
 - 💬 Ask me about data policy
