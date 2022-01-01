@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![Cherian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheriangeorge&show_icons=true&theme=radical)
 ![Cherian's Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=cheriangeorge&theme=tokyonight)
 ![Cherian's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=cheriangeorge&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheriangeorge&langs_count=8)](https://github.com/cheriangeorge/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheriangeorge&langs_count=8)](https://github.com/cheriangeorge/)
 
 
 <!--
