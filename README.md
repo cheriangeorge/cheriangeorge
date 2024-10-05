@@ -6,13 +6,12 @@
 Here are some ideas to get you started:
 -->
 
-<!--
+
 - 🔭 I’m currently working on something confidential
--->
-- 🌱 I’m currently learning BDBN,OS and MR
+- 🌱 Exploring code and learning every day, one project at a time.
 - 👯 I’m looking to collaborate on interesting technology and social projects
 - 🤔 I’m looking for help with Binary QR codes 
-- 💬 Ask me about data policy
+- 💬 Ask me about data policy and privacy 
 - 📫 How to reach me: message me on github
 
 
